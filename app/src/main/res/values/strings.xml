@@ -1,0 +1,33 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Events</string>
+
+    <!-- Entry Fragment -->
+    <string name="name_txt_field_hint">Name</string>
+    <string name="e_mail_txt_field_hint">E-mail</string>
+    <string name="entry_btn_txt">Enter</string>
+    <string name="entry_title">Events App</string>
+    <string name="invalid_name_error">Invalid name</string>
+    <string name="invalid_email_error">Invalid email</string>
+
+    <!-- Events List Fragment -->
+    <string name="try_again_btn_txt">Try again</string>
+
+    <!-- Event Details Fragment -->
+    <string name="event_info_read_more_ds">Read more</string>
+    <string name="join_event_btn">Join</string>
+    <string name="person_already_in_event_error">This person already is on this event</string>
+
+    <!-- Error Messages -->
+    <string name="unknown_error">Unknown error</string>
+
+    <!-- Network Error Messages -->
+    <string name="not_found_error">Not found</string>
+    <string name="access_denied_error">Access denied</string>
+    <string name="service_unavailable_error">Service unavailable</string>
+    <string name="unknown_network_error">Unknown network error</string>
+    <string name="error_network_toast">Network error</string>
+
+    <!-- Ui Error Messages -->
+    <string name="person_not_found_error">Could not fetch person data. Try to re-open the app</string>
+</resources>
